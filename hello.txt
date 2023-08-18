@@ -3,3 +3,4 @@ hello world!
 conflict test2.
 testttt
 test commit squash3
+commit terakhir
