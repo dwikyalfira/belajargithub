@@ -4,3 +4,4 @@ conflict test2.
 testttt
 test commit squash3
 commit terakhir
+commit test github VSCODE
